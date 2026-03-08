@@ -1,9 +1,8 @@
-<img width="716" height="304" alt="Screenshot from 2026-03-08 01-47-47" src="https://github.com/user-attachments/assets/e36b00af-8a77-4e6e-8b33-94b2f3aed97f" />
+<div align="center">
+  <img width="716" height="304" alt="Screenshot from 2026-03-08 01-47-47" src="https://github.com/user-attachments/assets/e36b00af-8a77-4e6e-8b33-94b2f3aed97f" />
+</div>
 
-# KUAVA.CLUB — UAV Team
-> Reach New Frontiers.
-
----
+# KUAVA.CLUB — Reach New Frontiers.
 
 ## What is this?
 
